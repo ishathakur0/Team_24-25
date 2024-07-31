@@ -130,7 +130,9 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
 | --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
 | **[Lead Name]** | **Lead**   | **[GitHub]** | **[LinkedIn]** | **[Twitter]** | **[Other Links]** |
+| Isha Thakur      | Coordinator | [GitHub](https://github.com/ishathakur0)     | [LinkedIn] (https://www.linkedin.com/in/isha-thakur-308778293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    | [Twitter]     | [Other Links]     |
 | [Add Name]      | [Add Role] | [GitHub]     | [LinkedIn]     | [Twitter]     | [Other Links]     |
+
 
 ---
 
